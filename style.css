@@ -1,0 +1,26 @@
+/* *{
+    background-color: black;
+} */
+
+.font12{
+    font-size: 12px;
+}
+#btn-header{
+    border-radius: 105px;
+    width: 100px;
+    background-color: black;
+    border: 1px solid white;
+    
+}
+
+#menu-search{
+    margin-top: 500px;
+}
+
+.container{
+    background-color: #211D1C;
+}
+
+.container-fluid{
+    background-color: #211D1C;
+}
